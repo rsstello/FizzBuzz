@@ -32,4 +32,12 @@ public class FizzBuzzTest {
         assertEquals(esperado, obtido);
     }
 
+    @Test
+    void testFizzBuzzConverterMultipleOfThreeAndFive () {
+
+        final String esperado = "FizzBuzz";
+        final String obtido = fizzBuzz.convert(15);
+        assertEquals(esperado, obtido);
+    }
+
 }
