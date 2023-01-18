@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest.testFizzBuzzConverterMultipleOfFive">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="FizzBuzz" />
@@ -62,6 +62,22 @@
       <option name="PACKAGE_NAME" value="Kata" />
       <option name="MAIN_CLASS_NAME" value="Kata.FizzBuzzTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.testFizzBuzzConverterMultipleOfFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kata" />
+      <option name="MAIN_CLASS_NAME" value="Kata.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testFizzBuzzConverterMultipleOfFive" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzConverterMultipleOfFive" />
         <item itemvalue="JUnit.FizzBuzzTest" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzConverterMultipleOfThree" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzConverterNoChange" />

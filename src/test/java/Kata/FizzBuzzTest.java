@@ -24,4 +24,12 @@ public class FizzBuzzTest {
         assertEquals(esperado, obtido);
     }
 
+    @Test
+    void testFizzBuzzConverterMultipleOfFive () {
+
+        final String esperado = "Buzz";
+        final String obtido = fizzBuzz.convert(5);
+        assertEquals(esperado, obtido);
+    }
+
 }
