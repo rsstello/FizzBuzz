@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4be6822-afda-4944-9d70-7c003016149f" name="Changes" comment="first">
-      <change beforePath="$PROJECT_DIR$/src/test/java/Kata/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Kata/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Kata/FinalFizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kata/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.testFizzBuzzConverterMultipleOfThreeAndFive">
+  <component name="RunManager" selected="JUnit.FinalFizzBuzzTest.hundredFizzBuzz">
+    <configuration name="FinalFizzBuzzTest.hundredFizzBuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kata" />
+      <option name="MAIN_CLASS_NAME" value="Kata.FinalFizzBuzzTest" />
+      <option name="METHOD_NAME" value="hundredFizzBuzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FizzBuzz" />
       <extension name="coverage">
@@ -85,22 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzzTest.testFizzBuzzConverterMultipleOfThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FizzBuzz" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kata.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Kata" />
-      <option name="MAIN_CLASS_NAME" value="Kata.FizzBuzzTest" />
-      <option name="METHOD_NAME" value="testFizzBuzzConverterMultipleOfThree" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FizzBuzzTest.testFizzBuzzConverterMultipleOfThreeAndFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FizzBuzz" />
       <extension name="coverage">
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FinalFizzBuzzTest.hundredFizzBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzConverterMultipleOfThreeAndFive" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzConverterMultipleOfFifteen" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzConverterMultipleOfFive" />
         <item itemvalue="JUnit.FizzBuzzTest" />
-        <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzConverterMultipleOfThree" />
       </list>
     </recent_temporary>
   </component>
