@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4be6822-afda-4944-9d70-7c003016149f" name="Changes" comment="first">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Kata/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Kata/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kata/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.testFizzBuzzConverterMultipleOfThree">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="FizzBuzz" />
@@ -101,9 +100,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTest" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzConverterMultipleOfThree" />
         <item itemvalue="JUnit.FizzBuzzTest.testFizzBuzzConverterNoChange" />
-        <item itemvalue="JUnit.FizzBuzzTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
